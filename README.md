@@ -1,19 +1,19 @@
-### Привет, меня зовут [Александр](https://vk.com/kotolazer) ☄
+### Привет, меня зовут [Александр](https://vk.com/kotolazer) 🌌
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разрабатываю+игры+на+Unity)](https://git.io/typing-svg)
 
 ---
 
-### 😎 Обо мне:
+### 😎: Обо мне:
 
-Я начинающий Unity разработчик. Я очень люблю играть в игры, где есть свой редактор уровней, персонажей и моделей. Но лучше редактора быть не может, чем редактор игры! Я выбрал Unity ещё в 13 лет и с тех пор регулярно делаю игры там. Я учуь в колледже информационных технологий [IThub College](https://ithub.ru/), на 2-ом курсе, по направлению GAMEDEV. У меня есть свой [YouTube канал](https://www.youtube.com/g4sasha) про мобильную разработку игр. Помимо разработки игр я совершенствуюсь в других движках и конструкторах, создаю дизайны, музыку и изучаю другие направления в программировании. Например, создаю Discord и Telegram ботов, или программирую полезное ПО.
+Начинающий Unity разработчик. Люблю игры с редактором уровней, персонажей и моделей. Выбрал Unity ещё в 13 лет, с тех пор использую этот движок. Учусь в колледже информационных технологий IThub College, на втором курсе, по направлению GAMEDEV. Веду YouTube канал о программировании на смартфоне. Кроме создания игр, совершенствуюсь в других движках и конструкторах, создаю дизайн, музыку и изучаю другие направления в программировании. Например, создаю Discord и Telegram ботов, или пишу полезное ПО.
 
-- 🕹 Люблю играть в игры жанра ["песочница"](https://ru.m.wikipedia.org/wiki/Нелинейность_(компьютерные_игры)#Песочница_(жанр)) и ["симулятор"](https://ru.wikipedia.org/wiki/Симулятор_(жанр_компьютерных_игр))
+- 🎲 Люблю играть в игры жанра ["песочница"](https://ru.m.wikipedia.org/wiki/Нелинейность_(компьютерные_игры)#Песочница_(жанр)) и ["симулятор"](https://ru.wikipedia.org/wiki/Симулятор_(жанр_компьютерных_игр))
 
 - ⭕ Есть свой [YouTube канал](https://www.youtube.com/g4sasha)
 
-- 🖥 Учусь на 2-ом курсе [IThub College](https://ithub.ru/)
+- 🎓 Учусь на 2-ом курсе [IThub College](https://ithub.ru)
 
-- 📋 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Kotolazer-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kotolazer) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:as.gyach@gmail.com)
+- 📮 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Kotolazer-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kotolazer) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:as.gyach@gmail.com)
 
 ---
 
@@ -36,19 +36,19 @@
 ### 💫 Мои инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://media.cdnandroid.com/item_images/562061/imagen-pocket-code-learn-programming-0thumb.webp" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://image.winudf.com/v2/image1/Y29tLmdhbmluLmNjb2RlX2ljb25fMTY1NjkxMzYyOF8wNTM/icon.png?w=184&fakeurl=1" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://media.cdnandroid.com/item_images/562061/imagen-pocket-code-learn-programming-0thumb.webp" title="Pocket Code" alt="Pocket Code" width="40" height="40"/>&nbsp;
+  <img src="https://image.winudf.com/v2/image1/Y29tLmdhbmluLmNjb2RlX2ljb25fMTY1NjkxMzYyOF8wNTM/icon.png?w=184&fakeurl=1" title="CCode" alt="CCode" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png" title="Construct 3" alt="Construct 3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
 </div>
 
 ---
