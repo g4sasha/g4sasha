@@ -1,5 +1,5 @@
 ### Привет, меня зовут [Александр](https://vk.com/kotolazer) 🌌
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разрабатываю+игры+на+Unity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Разработчик+игр+на+Unity)](https://git.io/typing-svg)
 
 ---
 
