@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/>&nbsp;
@@ -61,10 +62,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=g4sasha&theme=dark&background=202020" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=g4sasha&theme=dark&background=202020" alt="webDev's Github stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=g4sasha&layout=compact&theme=react" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=g4sasha&layout=compact&theme=react"/>
     </td>
   </tr>
 </table>
