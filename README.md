@@ -41,8 +41,8 @@ Unity разработчик. Люблю игры с редактором уро
 </div>
 
 ### 💡 Пройденные мной курсы и уроки:
-1. [Создание своего 3D движка от Vectozavr на c++ (2021-2022)](https://vectozavr.ru/)
-2. [Уроки по c# от SimpleCode (2022)](https://youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&si=FHN2B76xl3hg5-Z7)
+1. [Создание своего 3D движка на c++ от Vectozavr (2021-2022)](https://vectozavr.ru/)
+2. [Уроки по c# от SimpleCode (2018-2022)](https://youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&si=FHN2B76xl3hg5-Z7)
 
 ---
 
