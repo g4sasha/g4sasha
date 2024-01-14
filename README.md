@@ -3,7 +3,7 @@
 
 ### 😎 Обо мне:
 
-Unity разработчик. Люблю игры с редактором уровней и персонажей. Выбрал Unity ещё в 13 лет, с тех пор использую этот движок. Учусь на 2-ом курсе в [IThub College](https://ithub.ru). Веду [YouTube канал](https://www.youtube.com/g4sasha) о программировании на мобильных устройствах. Кроме создания игр, совершенствуюсь в других движках и конструкторах, создаю дизайн, музыку и изучаю другие направления в программировании. Например, создаю Discord и Telegram ботов, или пишу полезное ПО
+Unity разработчик. Люблю игры с редактором уровней и персонажей. Выбрал Unity в 13 лет, с тех пор использую этот движок. Учусь на 2-ом курсе в [IThub College](https://ithub.ru). Веду [YouTube канал](https://www.youtube.com/g4sasha) о программировании на мобильных устройствах. Кроме создания игр, совершенствуюсь в других движках и конструкторах, создаю дизайн, музыку и изучаю другие направления в программировании. Например, создаю Discord и Telegram ботов, или пишу полезное ПО
 
 - 🎲 Люблю играть в симуляторы и стратегии
 
@@ -11,7 +11,7 @@ Unity разработчик. Люблю игры с редактором уро
 
 - 📮 Связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:as.gyach@gmail.com)
 
-
+---
 
 ### 🌍 Социальные сети:
 
@@ -29,36 +29,20 @@ Unity разработчик. Люблю игры с редактором уро
 
 ---
 
-### 💻 Я знаю языки программирования:
+### 💻 Я использую для работы:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" alt="Processing" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-
-### 🧱 Для создания игр, я использую:
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-</div>
-
-### 📦 Я использую для работы:
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
-</div>
-
-### ⚙ Есть большой опыт:
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
+
+### 💡 Пройденные мной курсы и уроки:
+1. [Создание своего 3D движка от Vectozavr на c++ (2021-2022)](https://vectozavr.ru/)
+2. [Уроки по c# от SimpleCode (2022)](https://youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&si=FHN2B76xl3hg5-Z7)
 
 ---
 
