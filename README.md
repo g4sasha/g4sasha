@@ -15,11 +15,14 @@ Unity разработчик. Люблю игры с редактором уро
   <a href="https://vk.com/kotolazer" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Вконтакте"/>
   </a>
-  <a href="https://t.me/Kotolazer" target="_blank">
+  <a href="https://t.me/g4sasha" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/>
   </a>
   <a href="https://www.youtube.com/g4sasha" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+  </a>
+  <a href="https://discord.gg/gKY7V8mEft" target="_blank">
+    <img src="https://cdn.prod.website-files.com/615dc84364c5917b852e46b2/61896fa7a111e70f401c563d_app-icons-discord%201.png" width="40" height="40" alt="Discord"/>
   </a>
 </div>
 
